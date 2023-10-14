@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Andrea! I'm 19, I live in Italy and I love coding!
-- 👀 My main interest is Quant Finance
+- 👋 Hi, I’m Andrea! I'm 20, I live in Italy and I love coding!
+- 👀 Interested in Quant Finance
 
 <!---
 NotFrancee/NotFrancee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
